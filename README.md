@@ -1,3 +1,5 @@
-# Ohjelmistotekniikka - Rami Ojares
-
-Tähän repositorioon tulee Ramin __3 laskaria__ ja *6 iteraatiota harjoitustyöstä*
+# Rami Ojares - Ohjelmistotekniikka, harjoitustyö
+## Tehtävät
+### Viikko 1
+[komentorivi.txt](https://github.com/rojares/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
+[gitlog.txt](https://github.com/rojares/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
