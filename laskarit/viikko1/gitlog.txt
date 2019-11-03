@@ -1,0 +1,104 @@
+commit 824bec2c3e7e008816b1ca23ca1cdf2b8e94caf9
+Author: Rami Ojares <rami.ojares@helsinki.fi>
+Date:   Sun Nov 3 15:08:10 2019 +0200
+
+    muutoksia
+
+ tiedostoja/file2             | 0
+ tiedostoja/{file1 => file22} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit 47acdf6d9ea66cb70e5169794b084519ece1d9a2
+Author: Rami Ojares <rami.ojares@helsinki.fi>
+Date:   Sun Nov 3 15:00:29 2019 +0200
+
+    added tiedostoje
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit d6f291fac3ae0e897ccd31a02b25f385b1655a14
+Author: Rami Ojares <rami.ojares@helsinki.fi>
+Date:   Sun Nov 3 14:58:41 2019 +0200
+
+    mv
+
+ eka.txt               | 4 ++++
+ kolmas.txt => jaa.txt | 0
+ 2 files changed, 4 insertions(+)
+
+commit 62f315528ecc89c01ec6458c46d7b1b6c66b1679
+Author: Rami Ojares <rami.ojares@helsinki.fi>
+Date:   Sun Nov 3 14:50:22 2019 +0200
+
+    rename
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 70c09107b250601c5028b43da61bd2455d5af249
+Author: Rami Ojares <rami.ojares@helsinki.fi>
+Date:   Sun Nov 3 14:47:47 2019 +0200
+
+    removed
+
+ toinen.txt | 2 --
+ 1 file changed, 2 deletions(-)
+
+commit 02aff5edbf27456bcdf8961d698e356a68db46c1
+Author: Rami Ojares <rami.ojares@helsinki.fi>
+Date:   Sun Nov 3 14:39:10 2019 +0200
+
+    hä
+
+ "h\303\244.txt" | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit d3b9947f1be1aeef7c75a05f5006cc4311e4b07c
+Author: Rami Ojares <rami.ojares@helsinki.fi>
+Date:   Sun Nov 3 14:31:35 2019 +0200
+
+    a
+
+ "stuff/nelj\303\244s.txt" | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit bf38c12950d6376e85f305e7c8611bd958059236
+Author: Rami Ojares <rami.ojares@helsinki.fi>
+Date:   Sun Nov 3 14:30:13 2019 +0200
+
+    taas
+
+ kolmas.txt | 1 +
+ toinen.txt | 2 +-
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit 8e7a674192e9ed8bea4b2e5eb580b8661b547a35
+Author: Rami Ojares <rami.ojares@helsinki.fi>
+Date:   Sun Nov 3 14:28:53 2019 +0200
+
+    kolmas commit
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 49cb1d1f1ab7e706751af70ba67dbbbd3c84b5bc
+Author: Rami Ojares <rami.ojares@helsinki.fi>
+Date:   Sun Nov 3 14:22:14 2019 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 1 +
+ toinen.txt   | 2 ++
+ 2 files changed, 3 insertions(+)
+
+commit f091b317b5ff6213896621a657d952c0f5dd05c0
+Author: Rami Ojares <rami.ojares@helsinki.fi>
+Date:   Sun Nov 3 14:11:38 2019 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
