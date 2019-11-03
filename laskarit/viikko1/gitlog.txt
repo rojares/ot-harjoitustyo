@@ -103,4 +103,4 @@ Date:   Sun Nov 3 14:11:38 2019 +0200
  tiedosto.txt | 0
  1 file changed, 0 insertions(+), 0 deletions(-)
  
- pieni lisäys
+ pieni lisäys +1
